@@ -5,8 +5,8 @@ Kyle.Zhang@pcc.edu
 ## Experience
 ### Summer Internship at Nan Cancer Research Lab at Oregon Health & Science University (OHSU), 2019
 
-    Over 400 hours in Nan Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
-    Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this https://www.nature.com/articles/s41467-019-09231-9
+* Over 400 hours in Nan Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
+* Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this https://www.nature.com/articles/s41467-019-09231-9
 
 ### Teaching Students on Computer Skills thru Tech4Kids & CFAP Youth Council, May 2020 to Present
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
@@ -18,13 +18,13 @@ Kyle.Zhang@pcc.edu
 * [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
 	
 ### Lead School Robotics team (Fellowship of the Robot), 2018 - 2020
-    Top 10 team in Oregon (out of 209 teams)
-    Qualified for 2019 World Tournament Championship in Houston.
-    Leading Software Programming for the team
+* Top 10 team in Oregon (out of 209 teams)
+* Qualified for 2019 World Tournament Championship in Houston.
+* Leading Software Programming for the team
 
 ### Destination Imagination 2015
-    Led the design and implementation of a robotic squirrel using Lego hardware 
-    Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
+* Led the design and implementation of a robotic squirrel using Lego hardware 
+* Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Skills
     Python, Java, C++, C#, Linux Shell
