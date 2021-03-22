@@ -1,5 +1,5 @@
 # Kyle Zhang
-Lake Oswego, OR, 97035 Phone: (503) 782-7009
+Lake Oswego, OR, 97035 
 Kyle.Zhang@pcc.edu 
 
 ## Experience
