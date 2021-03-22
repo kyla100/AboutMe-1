@@ -6,7 +6,7 @@ Kyle.Zhang@pcc.edu
 ### Summer Internship at Nan Cancer Research Lab at Oregon Health & Science University (OHSU), 2019
 
 * Over 400 hours in Nan Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
-* Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this https://www.nature.com/articles/s41467-019-09231-9
+* Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this [research paper published by Nature](https://www.nature.com/articles/s41467-019-09231-9)
 
 ### Teaching Students on Computer Skills thru Tech4Kids & CFAP Youth Council, May 2020 to Present
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
