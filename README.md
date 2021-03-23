@@ -1,6 +1,7 @@
 # Kyle Zhang
 Lake Oswego, OR, 97035 
 Kyle.Zhang@pcc.edu 
+503-782-7009
 
 ## Experience
 ### Summer Internship at Nan Cancer Research Lab at Oregon Health & Science University (OHSU), 2019
@@ -28,8 +29,8 @@ Kyle.Zhang@pcc.edu
 
 ## Skills
     Python, Java, C++, C#, Linux Shell
-    AI, Machine Learning, Neural Network
-    VS Code, MS Visual Studio, MATLAB, PyCharm, Unity
+    AI, Machine Learning, Neural Network, TensorFlow, Keras
+    VS Code, MS Visual Studio, MATLAB, PyCharm, Unity, OpenCV, Git/GitHub
 
 ## Education
 
