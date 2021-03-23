@@ -1,7 +1,9 @@
 # Kyle Zhang
-Lake Oswego, OR, 97035 
+Lake Oswego, Oregon 
 Kyle.Zhang@pcc.edu 
 503-782-7009
+https://github.com/RiptideStar/AboutMe 
+
 
 ## Experience
 ### Summer Intern at Nan Cancer Research Lab at Oregon Health & Science University (OHSU), 2019
