@@ -12,14 +12,14 @@ https://github.com/RiptideStar/AboutMe
 * Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9)
 
 ### Technology Instructor at Tech4Kids & CFAP Youth Council, May 2020 to Present
-Teaching Students with hands on technology projects:
+Teaching Students with hands on technology projects (Code in GitHub below):
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Python Programming, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 * Psychology of Gaming & how to manage and balance it with School Life for parents and children
 
 ### Lab Assistant, Chemistry Lab at Oregon State University, 2020
-Under the supervision of Dr David Ji, I implemented the data processing using Python:
+Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
 * [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
 	
 ### Software Lead, FTC Robotics Team (Fellowship of the Robot), 2018 - 2020
