@@ -32,7 +32,7 @@ Under the supervision of Dr David Ji, I implemented the data processing using Py
 * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Skills
-    Python, Java, C++, C#, Linux Shell
+    Python, Java, C++, C#, JavaScript, Linux Shell
     AI, Machine Learning, Neural Network, TensorFlow, Keras
     VS Code, MS Visual Studio, MATLAB, PyCharm, Unity, OpenCV, Git/GitHub
 
