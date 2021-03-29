@@ -2,21 +2,21 @@
 Lake Oswego, Oregon | 
 Kyle.Zhang@pcc.edu | 
 503-782-7009 | 
-https://github.com/RiptideStar/AboutMe 
+https://github.com/RiptideStar
 
 
 ## Experience
-### Summer Intern at Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
 
-* Over 400 hours under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
-* Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9)
-
-### Technology Instructor at Tech4Kids & CFAP Youth Council, May 2020 to Present
-Teaching students with hands on technology projects (Code in GitHub below):
+### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
+Teaching students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Python Programming, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 * Psychology of Gaming & how to manage and balance it with School Life for parents and children
+
+### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
+* Over 400 hours under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
+* Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9)
 
 ### Lab Assistant, Chemistry Lab at Oregon State University, July - August 2020
 Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
