@@ -16,7 +16,7 @@ Teaching students with hands on technology projects (Code in GitHub: https://git
 
 ### Web Developer, April 2020
 * Design and Developed a Covid19 Vaccine Finder - a Web Crawler App using Python + Flask + Shell Scripts.
-* The website will keep crawling / checking / reporting covid19 vaccine sign-up sites for availability continuously. If available spots are found, registered users are notified thru email immediately.
+* The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
 * User Site: https://cutt.ly/myshot
 * Github: https://github.com/RiptideStar/covid19signupStatus
 
