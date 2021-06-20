@@ -14,7 +14,7 @@ Data analyses and algo studies using Python and AI
 Teaching students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
-* [Python Programming, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
+* [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 * Psychology of Gaming & how to manage and balance it with School Life for parents and children
 
 ### Web Developer, April 2021
