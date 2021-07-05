@@ -8,7 +8,7 @@ https://github.com/RiptideStar
 ## Experience
 
 ### Intern, ValleyWater Capital Manangement, April 2020 to Present
-Data analyses and algo studies using Python and AI
+Data analyses and algo studies using Python and AI for trading
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
 Teaching students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
