@@ -47,14 +47,15 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 
 ## Education
 
-#### Computer Science, Portland Community College, OR, 2019 - present
-    CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, EC201, EC202
-    GPA: 4.0
-#### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
-#### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
 #### Lake Oswego High School, Lake Oswego, OR
     Planned Graduation 2022
     GPA: 4.5
+#### Computer Science, Portland Community College, OR, 2019 - present
+    CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, CIS275, EC201, EC202
+    GPA: 4.0
+#### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
+#### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
+
 	
 ## Volunteer / Community Service
 * Teaching community students on computer science, game development (c#, c++), and AI (python) 
