@@ -7,17 +7,20 @@ https://github.com/RiptideStar
 
 ## Experience
 
+### Intern, ValleyWater Capital Manangement, April 2020 to Present
+Perform data analyses and implement trading algorithms using Python and AI 
+
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
 Teaching students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
-* [Python Programming, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
+* [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 * Psychology of Gaming & how to manage and balance it with School Life for parents and children
 
-### Web Developer, April 2021
+### Full Stack Developer, April 2021
 * Designed and Developed a Covid19 Vaccine Finder - a Web Crawler App using Python + Flask + Shell Scripts + SQLite.
-* The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
-* User Site: https://cutt.ly/myshot
+* The website continually crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
+* User Site: http://47.88.59.62:5000/
 * Github: https://github.com/RiptideStar/covid19signupStatus
 
 ### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
@@ -44,14 +47,15 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 
 ## Education
 
-#### Computer Science, Portland Community College, OR, 2019 - present
-    CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, EC201, EC202
-    GPA: 4.0
-#### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
-#### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
 #### Lake Oswego High School, Lake Oswego, OR
     Planned Graduation 2022
     GPA: 4.5
+#### Computer Science, Portland Community College, OR, 2019 - present
+    CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, CIS275, EC201, EC202
+    GPA: 4.0
+#### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
+#### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
+
 	
 ## Volunteer / Community Service
 * Teaching community students on computer science, game development (c#, c++), and AI (python) 
