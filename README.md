@@ -20,7 +20,7 @@ Teaching students with hands on technology projects (Code in GitHub: https://git
 ### Full Stack Developer, April 2021
 * Designed and Developed a Covid19 Vaccine Finder - a Web Crawler App using Python + Flask + Shell Scripts + SQLite.
 * The website continually crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
-* User Site: http://47.88.59.62:5000/
+* User Site: http://vaccine19.us/
 * Github: https://github.com/RiptideStar/covid19signupStatus
 
 ### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
@@ -63,3 +63,9 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Coaching tens of kids on tennis (since I was 12) thru private lessons and camps - Inspiring kids to be active with sports
 * Recruiting fellow students to the robotic team and to inspire others to innovate 
 * Volunteer in the annual Portland Rose Parade every year since I was 9
+
+## My Web Sites
+* http://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
+* http://vaccine19.us/  A covid19 vaccine finder and signup site.
+* https://github.com/RiptideStar/ My GitHub home since 2018.
+
