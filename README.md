@@ -8,7 +8,7 @@ https://github.com/RiptideStar
 ## Experience
 
 ### Intern, ValleyWater Capital Manangement, April 2020 to Present
-Perform data analyses and implement trading algorithms using Python and AI 
+* Perform data analyses and implement trading algorithms using Python and AI 
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
 Teaching students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
@@ -40,6 +40,17 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Led the design and implementation of a robotic squirrel using Lego hardware 
 * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
+## Leadership and Services
+* Volumteer for creating / maintaining websites for non-for-profit groups:
+  * http://hcyfoundation.org/
+  * https://www.nwchinesealliance.org/
+  * http://xstreamlc.com/
+* Volumteer for counseling kids with video gaming problems
+* Teaching community kids computer science, game development (c#, c++), and python and web programming
+* Created tennis groups and camps for kids. Coached tens of kids tennis (since I was 12) to inspire them to be active with sports
+* Recruiting fellow students to the robotic team and to inspire others to innovate 
+* Volunteer in the annual Portland Rose Parade every year since I was 9
+
 ## Skills
     Python, Java, C++, C#, JavaScript, Linux Shell, SQL
     AI, Machine Learning, Neural Network, TensorFlow, Keras
@@ -55,14 +66,6 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
     GPA: 4.0
 #### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
 #### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
-
-	
-## Volunteer / Community Service
-* Teaching community students on computer science, game development (c#, c++), and AI (python) 
-* Helping students with video gaming problems
-* Coaching tens of kids on tennis (since I was 12) thru private lessons and camps - Inspiring kids to be active with sports
-* Recruiting fellow students to the robotic team and to inspire others to innovate 
-* Volunteer in the annual Portland Rose Parade every year since I was 9
 
 ## My Web Sites
 * http://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
