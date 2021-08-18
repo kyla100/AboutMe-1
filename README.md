@@ -17,12 +17,6 @@ Teaching students with hands on technology projects (Code in GitHub: https://git
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 * Psychology of Gaming & how to manage and balance it with School Life for parents and children
 
-### Full Stack Developer, April 2021
-* Designed and Developed a Covid19 Vaccine Finder - a Web Crawler App using Python + Flask + Shell Scripts + SQLite.
-* The website continually crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
-* User Site: http://vaccine19.us/
-* Github: https://github.com/RiptideStar/covid19signupStatus
-
 ### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
 * Over 400 hours under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
 * Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9)
@@ -41,6 +35,11 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Leadership and Services
+* Designed and Developed a Covid19 Vaccine Finder website for helping people find and register vaccine. 
+  * The website continually crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
+  * Technology stack: Python + Flask + Shell Scripts + SQLite + html
+  * User Site: http://vaccine19.us/
+  * Github: https://github.com/RiptideStar/covid19signupStatus
 * Volumteer for creating / maintaining websites for non-for-profit groups:
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
