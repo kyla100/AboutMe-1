@@ -40,7 +40,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Help answering questions from high schoolers who want to study CS in colleges.
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
-* Designed and Developed a Covid19 Vaccine Finder website for helping people find and register vaccine. 
+* Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website continually crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
   * User Site: http://vaccine19.us/
