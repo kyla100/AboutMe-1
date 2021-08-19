@@ -11,7 +11,7 @@ https://github.com/RiptideStar
 * Perform data analyses and implement trading algorithms using Python and AI 
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
-Teaching students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
+Taught 180+ students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
