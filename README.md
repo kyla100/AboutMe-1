@@ -49,6 +49,8 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
   * http://xstreamlc.com/
+* Designed and developed the website for the valorant community to revolutionize how players search for lineups.
+  * http://LineupsValorant.com/
 * Volumteer for counseling kids with video gaming problems
 * Teaching community kids computer science, game development (c#, c++), and python and web programming
 * Created tennis groups and camps for kids. Coached tens of kids tennis (since I was 12) to inspire them to be active with sports
