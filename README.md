@@ -35,10 +35,10 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Leadership and Services
-* Organized and hosted computer science panel discussion. 
+* Organized and hosted computer science panel discussion 8/15/2021
   * Invited two professors from Oregon State U and Washington State U as panelists
   * Help answering questions from high schoolers who want to study CS in colleges.
-  * Information and Recording t.ly/FRIY
+  * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register vaccine. 
   * The website continually crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
