@@ -45,7 +45,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
   * User Site: http://vaccine19.us/
   * Github: https://github.com/RiptideStar/covid19signupStatus
-* Volumteer for creating / maintaining websites for non-for-profit groups:
+* Volumteer for non-for-profit organizations - creating / maintaining websites for them:
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
   * http://xstreamlc.com/
