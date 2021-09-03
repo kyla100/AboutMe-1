@@ -14,11 +14,10 @@ WaterValley is a one of many hedge funds in HongKong. Managing billions of dolla
 * Comparing performance of strategies on previous data to generalize what makes up the almost perfectly optimized trading algorithm
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
-Taught 180+ students with hands on technology projects (Code in GitHub: https://github.com/RiptideStar)
+Designed and taught three online technology classes for 180+ students with hands on projects (Code in GitHub: https://github.com/RiptideStar)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
-* Psychology of Gaming & how to manage and balance it with School Life for parents and children
 
 ### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
 * Over 400 hours under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
@@ -55,6 +54,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Designed and developed the video game website for the valorant community to revolutionize how players search for lineups.
   * http://LineupsValorant.com/
 * Volunteer for counseling kids with video gaming problems
+  * Organized and held panel discussions on Psychology of Gaming & how to manage and balance it with School Life for parents and children
 * Teaching community kids computer science, game development (c#, c++), and python and web programming
 * Created tennis groups and camps for kids. Coached tens of kids tennis (since I was 12) to inspire them to be active with sports
 * Recruiting fellow students to the robotic team and to inspire others to innovate 
