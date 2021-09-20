@@ -80,5 +80,5 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 ## My Websites
 * http://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
 * http://vaccine19.us/  A covid19 vaccine finder and signup site.
-* https://github.com/RiptideStar/ My GitHub home since 2018.
+* https://github.com/RiptideStar/ My GitHub home since 2018. https://riptidestar.com
 
