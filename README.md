@@ -76,7 +76,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 #### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
 #### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
 
-## My Web Sites
+## My WebSites
 * http://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
 * http://vaccine19.us/  A covid19 vaccine finder and signup site.
 * https://github.com/RiptideStar/ My GitHub home since 2018.
