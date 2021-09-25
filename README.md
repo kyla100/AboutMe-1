@@ -42,6 +42,8 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Help answering questions from high schoolers who want to study CS in colleges.
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
+* Designed and developed the video game website for the valorant community to revolutionize how players search for lineups.
+  * http://LineupsValorant.com/
 * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
@@ -51,13 +53,11 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
   * http://xstreamlc.com/
-* Designed and developed the video game website for the valorant community to revolutionize how players search for lineups.
-  * http://LineupsValorant.com/
-* Volunteer for counseling kids with video gaming problems
-  * Organized and held panel discussions on Psychology of Gaming & how to manage and balance it with School Life for parents and children
+* Volunteer for counseling kids with video gaming emanations
+  * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children
+### Other PDX Community Services
 * Teaching community kids computer science, game development (c#, c++), and python and web programming
 * Created tennis groups and camps for kids. Coached tens of kids tennis (since I was 12) to inspire them to be active with sports
-* Recruiting fellow students to the robotic team and to inspire others to innovate 
 * Volunteer in the annual Portland Rose Parade every year since I was 9
 
 ## Skills
