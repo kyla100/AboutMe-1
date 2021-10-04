@@ -2,7 +2,7 @@
 Lake Oswego, Oregon | 
 Kyle.Zhang@pcc.edu | 
 971-206-1296 | 
-https://github.com/RiptideStar
+https://github.com/RiptideStar | 
 http://RiptideStar.com
 
 
