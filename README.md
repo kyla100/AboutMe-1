@@ -1,14 +1,15 @@
 # Kyle Zhang
 Lake Oswego, Oregon | 
 Kyle.Zhang@pcc.edu | 
-503-782-7009 | 
+971-206-1296 | 
 https://github.com/RiptideStar
+http://RiptideStar.com
 
 
 ## Experience
 
 ### Intern, WaterValley Capital Management, April - September 2021
-WaterValley is a one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market does require the power of computing and AI. That's when they put me in as their intern.
+WaterValley is a one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market does require the power of computing and AI. That's why they put me in as their intern.
 * Performing data analyses and implementing trading algorithms using Python and AI 
 * Writing new strategies in python to optimize for contracts within previous data
 * Comparing performance of strategies on previous data to generalize what makes up the almost perfectly optimized trading algorithm
@@ -37,12 +38,14 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Leadership and Services
-* Organized and hosted computer science panel discussion 8/15/2021
-  * Invited two professors from Oregon State U and Washington State U as panelists
-  * Help answering questions from high schoolers who want to study CS in colleges.
-  * Information and Recording http://t.ly/FRIY
-  * My final remarks - [video clip](http://t.ly/jKUY)
-* Designed and developed the video game website for the valorant community to revolutionize how players search for lineups.
+* Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
+  * As the president of the AI Club, I am helping fellow students to explore and learn AI technology.
+  * I organized and hosted computer science panel discussion 8/15/2021
+    * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists
+    * Help answering questions from high schoolers who want to study CS in colleges.
+    * Information and Recording http://t.ly/FRIY
+    * My final remarks - [video clip](http://t.ly/jKUY)
+* Designed and developed the video game website for the Valorant community to revolutionize how players search for lineups.
   * http://LineupsValorant.com/
 * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
@@ -55,6 +58,9 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * http://xstreamlc.com/
 * Volunteer for counseling kids with video gaming emanations
   * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children
+* Organizing Summer, Winter and Spring break camps and classes 
+  * Hosting and coaching tennis camps every Summer
+  * Organizing and teaching technology online classes (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students enrolled in the classes since summer 2020.
 ### Other PDX Community Services
 * Teaching community kids computer science, game development (c#, c++), and python and web programming
 * Created tennis groups and camps for kids. Coached tens of kids tennis (since I was 12) to inspire them to be active with sports
