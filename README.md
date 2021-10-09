@@ -40,11 +40,11 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 ## Leadership and Services
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
   * As the president of the AI Club, I am helping fellow students to explore and learn AI technology.
-  * I organized and hosted computer science panel discussion 8/15/2021
-    * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists
-    * Help answering questions from high schoolers who want to study CS in colleges.
-    * Information and Recording http://t.ly/FRIY
-    * My final remarks - [video clip](http://t.ly/jKUY)
+* I organized and hosted computer science panel discussion 8/15/2021
+  * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists
+  * Help answering questions from high schoolers who want to study CS in colleges.
+  * Information and Recording http://t.ly/FRIY
+  * My final remarks - [video clip](http://t.ly/jKUY)
 * Designed and developed the video game website for the Valorant community to revolutionize how players search for lineups.
   * http://LineupsValorant.com/
 * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
@@ -75,7 +75,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 
 #### Lake Oswego High School, Lake Oswego, OR
     Planned Graduation 2022
-    GPA: 4.5
+    GPA: 4.42
 #### Computer Science, Portland Community College, OR, 2019 - present
     CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, CIS275, EC201, EC202, MTH261
     GPA: 4.0
