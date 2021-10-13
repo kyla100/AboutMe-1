@@ -39,31 +39,29 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 
 ## Leadership and Services
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
-  * As the president of the AI Club, I am helping fellow students to explore and learn AI technology.
-* I organized and hosted computer science panel discussion 8/15/2021
+  * As the president of the AI Club, I facilitate discussions and events for fellow students to explore and learn AI technology.
+  * Organized and hosted computer science panel discussion on 8/15/2021
   * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists
-  * Help answering questions from high schoolers who want to study CS in colleges.
+  * Helped answering questions from high schoolers who want to study CS in colleges.
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
-* Designed and developed the video game website for the Valorant community to revolutionize how players search for lineups.
-  * http://LineupsValorant.com/
 * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
   * User Site: http://vaccine19.us/
   * Github: https://github.com/RiptideStar/covid19signupStatus
+* Designed and developed the video game website for the Valorant community to revolutionize how players search for lineups.
+  * http://LineupsValorant.com/
 * Volunteer for non-for-profit organizations - creating / maintaining websites for them:
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
   * http://xstreamlc.com/
-* Volunteer for counseling kids with video gaming emanations
-  * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children
-* Organizing Summer, Winter and Spring break camps and classes 
-  * Hosting and coaching tennis camps every Summer
+* Organize and host camps and classes in summer, winter and spring breaks
+  * Hosting and coaching tennis camps every Summer. Coached 40+ kids tennis (since I was 12) to inspire them to be active with sports
   * Organizing and teaching technology online classes (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students enrolled in the classes since summer 2020.
-### Other PDX Community Services
-* Teaching community kids computer science, game development (c#, c++), and python and web programming
-* Created tennis groups and camps for kids. Coached tens of kids tennis (since I was 12) to inspire them to be active with sports
+* Counsel kids with video gaming issues
+  * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children.
+  * Volunteer to counsel 10+ kids in my community struggling with video gaming issues. 
 * Volunteer in the annual Portland Rose Parade every year since I was 9
 
 ## Skills
