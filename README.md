@@ -21,8 +21,8 @@ Designed and taught three online technology classes for 180+ students with hands
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 
 ### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
-* Over 400 hours under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
-* Basically, I applied the knowledge I learned from FLL & FTC (robotics competitions) to leverage the Lego robotics hardware to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9)
+* In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
+* I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
 
 ### Lab Assistant, Chemistry Lab at Oregon State University, July - August 2020
 Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
@@ -57,12 +57,12 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * https://www.nwchinesealliance.org/
   * http://xstreamlc.com/
 * Organize and host camps and classes in summer, winter and spring breaks
-  * Hosting and coaching tennis camps every Summer. Coached 40+ kids tennis (since I was 12) to inspire them to be active with sports
-  * Organizing and teaching technology online classes (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students enrolled in the classes since summer 2020.
+  * Host and coach tennis camps every Summer. Coached 40+ kids tennis (since I was 12) to inspire them to be active with sports
+  * Organize and taught technology classes online (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students enrolled in the classes since summer 2020.
 * Counsel kids with video gaming issues
   * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children.
-  * Volunteer to counsel 10+ kids in my community struggling with video gaming issues. 
-* Volunteer in the annual Portland Rose Parade every year since I was 9
+  * Counseled 10+ kids in my community struggling with video gaming issues. 
+* Volunteer in the annual Portland Rose Parade every year since I was 9.
 
 ## Skills
     Python, Java, C++, C#, JavaScript, Linux Shell, SQL
