@@ -50,7 +50,10 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
   * User Site: http://vaccine19.us/
   * Github: https://github.com/RiptideStar/covid19signupStatus
-* Designed and developed the video game website for the Valorant community to revolutionize how players search for lineups.
+* Captain of Varsity Tennis Team at Lake Oswego High School
+  * I led the team to be #1 in the regional. 
+  * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
+* Designed and developed the interactive video game website for the Valorant community to revolutionize how players search for lineups.
   * http://LineupsValorant.com/
 * Volunteer for non-for-profit organizations - creating / maintaining websites for them:
   * http://hcyfoundation.org/
