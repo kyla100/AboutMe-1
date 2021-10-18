@@ -10,9 +10,9 @@ http://RiptideStar.com
 
 ### Intern, WaterValley Capital Management, April - September 2021
 WaterValley is one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market does require the power of computing and AI. That's why they put me in as their intern.
-* Performing data analyses and implementing trading algorithms using Python and AI 
-* Writing new strategies in python to optimize for contracts within existing data
-* Comparing performance of strategies on existing data to generalize what makes up the almost perfectly optimized trading algorithm
+* Performed data analyses and implementing trading algorithms using Python and AI 
+* Compared performance of strategies on existing data to generalize what makes up the most optimized trading algorithm
+* Implemented new strategies in python to optimize the future contracts within existing data
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
 Designed and taught three online technology classes for 180+ students with hands on projects (Code in GitHub: https://github.com/RiptideStar)
@@ -20,7 +20,7 @@ Designed and taught three online technology classes for 180+ students with hands
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
 
-### Summer Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
+### Research Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
 * In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
 * I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the imaging process based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
 
