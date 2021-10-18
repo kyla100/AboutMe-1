@@ -85,7 +85,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 #### Multivariable Calculus, John Hopkins University - CTY, 2021
 
 ## My Websites
-* http://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
+* https://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
 * http://vaccine19.us/  A covid19 vaccine finder and signup site.
 * https://github.com/RiptideStar/ My GitHub home since 2018. 
 * https://RipTideStar.com
