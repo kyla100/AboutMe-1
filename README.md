@@ -15,7 +15,7 @@ WaterValley is one of many hedge funds in HongKong. Managing billions of dollars
 * Implemented new strategies in python to optimize the future contracts within existing data
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
-Designed three online technology courses with hands-on projects. Taught 180+ students thru winter, spring and summer classes offered by Tech4Kids & CFAP Youth Council, non-for-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
+Designed three online technology courses with hands-on projects. Taught 180+ students thru winter, spring and summer classes offered by Tech4Kids & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
