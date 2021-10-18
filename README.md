@@ -54,7 +54,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * I led the team to be #1 in the regional. 
   * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
 * Designed and developed the interactive video game website for the Valorant community to revolutionize how players search for lineups.
-  * http://LineupsValorant.com/
+  * https://LineupsValorant.com/
 * Volunteer for non-for-profit organizations - creating / maintaining websites for them:
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
