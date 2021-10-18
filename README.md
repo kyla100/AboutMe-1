@@ -13,20 +13,24 @@ WaterValley is one of many hedge funds in HongKong. Managing billions of dollars
 * Performed data analyses and implementing trading algorithms using Python and AI 
 * Compared performance of strategies on existing data to generalize what makes up the most optimized trading algorithm
 * Implemented new strategies in python to optimize the future contracts within existing data
+* Recommendation letter available upon request from the CEO http://t.ly/6Od5
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
 Designed three online technology courses with hands-on projects. Taught 180+ students thru winter, spring and summer classes offered by Tech4Kids & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
 * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
 * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
 * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
+* Recommendation letter available upon request from Dr. Lou
 
 ### Research Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
 * In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
 * I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the image capturing based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
+* Recommendation letter available upon request from Dr. Nan http://t.ly/TiRo
 
 ### Lab Assistant, Chemistry Lab at Oregon State University, July - August 2020
 Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
 * [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
+* Recommendation letter available upon request from Dr. Ji.
 	
 ### Software Lead, FTC Robotics Team (Fellowship of the Robot), Sept. 2018 - Mar. 2020
 * Leading Software Programming for the team
