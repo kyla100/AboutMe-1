@@ -64,7 +64,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * https://www.nwchinesealliance.org/
   * http://xstreamlc.com/
 * Organize and host camps and classes in summer, winter and spring breaks
-  * Host and coach tennis camps every Summer. Coached 40+ kids tennis (since I was 12) to inspire them to be active with sports
+  * Host and coach tennis camps every summer since I was 12. Coached 40+ kids tennis to inspire them to be active with sports. Enjoyed the time with them.
   * Designed and taught technology classes online (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students enrolled in my classes since summer 2020.
 * Counsel kids with video gaming issues
   * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children.
