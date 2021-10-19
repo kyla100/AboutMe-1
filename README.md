@@ -68,7 +68,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Designed and taught technology classes online (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students enrolled in my classes since summer 2020.
 * Counsel kids with video gaming issues
   * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children.
-  * Counseled 10+ kids in my community struggling with video gaming issues. 
+  * Counseled 10+ kids in my community struggling with video gaming issues in last 3 years. 
 * Volunteer in the annual Portland Rose Parade every year since I was 9.
 
 ## Skills
