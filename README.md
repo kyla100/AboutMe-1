@@ -53,7 +53,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
   * User Site: http://vaccine19.us/
-  * Github: https://github.com/RiptideStar/covid19signupStatus
+  * Source code is open in my Github: https://github.com/RiptideStar/covid19signupStatus
 * Captain of Varsity Tennis Team at Lake Oswego High School
   * I led the team to be #1 in the regional. 
   * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
