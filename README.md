@@ -8,7 +8,7 @@ http://RiptideStar.com
 
 ## Experience
 
-### Development Intern for Algorithm & AI, WaterValley Capital Management, April - September 2021
+### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market demands the power of computing and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
 * Performed data preparation and analyses
 * Performed backtesting to optimize trading algorithms
