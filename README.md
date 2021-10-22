@@ -83,7 +83,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
     Weighted GPA: 4.42, Unweighted GPA: 4.0 (all A's)
 #### Computer Science, Portland Community College, OR, 2019 - present
     CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, CIS275, EC201, EC202, MTH261
-    GPA: 4.0
+    GPA: 3.90
 #### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
 #### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
 #### Multivariable Calculus, John Hopkins University - CTY, 2021
