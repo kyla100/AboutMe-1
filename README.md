@@ -32,7 +32,6 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. 
   * Registered users are notified immediately when available vaccine spots are found.
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
-  * User Site: http://vaccine19.us/
   * Source code is open in my Github: https://github.com/RiptideStar/covid19signupStatus
 
 ### Research Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
