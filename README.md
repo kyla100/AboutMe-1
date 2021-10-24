@@ -8,38 +8,51 @@ http://RiptideStar.com
 
 ## Experience
 
+### Founder / Developer, Valorant Gamer Website https://LineupsValorant.com/, July 2021 - Present
+  * Designed and developed the innovative video game website for the Valorant community to revolutionize how players search for lineups.
+  * The website provides interactive dynamic real-time supports for millions of Valorant players.
+  * It aims to serve 1,000,000+ gamers out of 20 millions in the Valorant community. 
+
 ### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market demands the power of computing and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
-* Performed data preparation and analyses
-* Performed backtesting to optimize trading algorithms
-* Implemented new strategies in python which optimizes the future contracts using past data
-* Recommendation letter available upon request from the CEO http://t.ly/6Od5
+  * Performed data preparation and analyses
+  * Performed backtesting to optimize trading algorithms
+  * Implemented new strategies in python which optimizes the future contracts using past data
+  * Recommendation letter available upon request from the CEO http://t.ly/6Od5
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
 Designed three online technology courses with hands-on projects. Taught 180+ students thru winter, spring and summer classes offered by Tech4Kids & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
-* [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
-* [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
-* [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
-* Recommendation letter available upon request from Dr. Lou
+  * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
+  * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
+  * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
+  * Recommendation letter available upon request from Dr. Lou
+
+### Initiator and Creator, Covid19 Vaccine Finder website http://vaccine19.us/, April 2021
+  * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
+  * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. 
+  * Registered users are notified immediately when available vaccine spots are found.
+  * Technology stack: Python + Flask + Shell Scripts + SQLite + html
+  * User Site: http://vaccine19.us/
+  * Source code is open in my Github: https://github.com/RiptideStar/covid19signupStatus
 
 ### Research Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
-* In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
-* I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the image capturing based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
-* Recommendation letter available upon request from Dr. Nan https://ohsu.edu/school-of-medicine/nan-lab
+  * In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
+  * I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the image capturing based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
+  * Recommendation letter available upon request from Dr. Nan https://ohsu.edu/school-of-medicine/nan-lab
 
 ### Lab Assistant, Chemistry Lab at Oregon State University, July - August 2020
 Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
-* [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
-* Recommendation letter available upon request from Dr. Ji. https://jigroup.chem.oregonstate.edu/
+  * [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
+  * Recommendation letter available upon request from Dr. Ji. https://jigroup.chem.oregonstate.edu/
 	
 ### Software Lead, FTC Robotics Team (Fellowship of the Robot), Sept. 2018 - Mar. 2020
-* Leading Software Programming for the team
-* Top 10 team in Oregon (out of 209 teams)
-* Qualified for 2019 World Tournament Championship in Houston.
+  * Leading Software Programming for the team
+  * Top 10 team in Oregon (out of 209 teams)
+  * Qualified for 2019 World Tournament Championship in Houston.
 
 ### Software Lead, Destination Imagination Team, Sept. 2015 - May 2016
-* Led the design and implementation of a robotic squirrel using Lego hardware 
-* Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
+  * Led the design and implementation of a robotic squirrel using Lego hardware 
+  * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Leadership and Services
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
@@ -49,16 +62,9 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Helped answering questions from high schoolers who want to study CS in colleges.
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
-* Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
-  * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. If available spots are found, registered users are notified thru email immediately.
-  * Technology stack: Python + Flask + Shell Scripts + SQLite + html
-  * User Site: http://vaccine19.us/
-  * Source code is open in my Github: https://github.com/RiptideStar/covid19signupStatus
 * Captain of Varsity Tennis Team at Lake Oswego High School
   * I led the team to be #1 in the regional. 
   * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
-* Designed and developed the innovative video game website for the Valorant community to revolutionize how players search for lineups.
-  * https://LineupsValorant.com/
 * Volunteer for non-profit organizations - creating / maintaining websites for them:
   * http://hcyfoundation.org/
   * https://www.nwchinesealliance.org/
