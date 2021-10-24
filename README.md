@@ -8,7 +8,7 @@ http://RiptideStar.com
 
 ## Experience
 
-### Founder / Developer, Valorant Gamer Website https://LineupsValorant.com/, July 2021 - Present
+### Founder & Developer, Valorant Gamer Website https://LineupsValorant.com/, July 2021 - Present
   * Designed and developed the innovative video game website for the Valorant community to revolutionize how players search for lineups.
   * The website provides interactive dynamic real-time supports for millions of Valorant players.
   * It aims to serve 1,000,000+ gamers out of 20 millions in the Valorant community. 
@@ -27,7 +27,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
   * Recommendation letter available upon request from Dr. Lou
 
-### Initiator and Creator, Covid19 Vaccine Finder website http://vaccine19.us/, April 2021
+### Initiator & Creator, Covid19 Vaccine Finder website http://vaccine19.us/, April 2021
   * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. 
   * Registered users are notified immediately when available vaccine spots are found.
