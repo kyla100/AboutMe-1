@@ -10,7 +10,7 @@ http://RiptideStar.com
 
 ### Founder & Developer, Valorant Gamer Website https://LineupsValorant.com/, July 2021 - Present
   * Designed and developed the innovative video game website for the Valorant community to revolutionize how players search for lineups.
-  * The website provides interactive dynamic real-time supports for millions of Valorant players.
+  * The website provides interactive dynamic real-time supports for Valorant players.
   * It aims to serve 1,000,000+ gamers out of 20 millions in the Valorant community. 
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
