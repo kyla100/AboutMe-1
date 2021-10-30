@@ -27,7 +27,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
   * Recommendation letter available upon request from Dr. Lou
 
-### Initiator & Creator, Covid19 Vaccine Finder website http://vaccine19.us/, April 2021
+### Initiator & Developer, Covid19 Vaccine Finder website http://vaccine19.us/, April 2021
   * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. 
   * Registered users are notified immediately when available vaccine spots are found.
