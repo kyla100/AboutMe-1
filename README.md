@@ -99,7 +99,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * https://github.com/RiptideStar/ My GitHub home since 2018. 
 * https://RipTideStar.com
 
-## Hobbies
+## My Hobbies
 * Tennis - I have been playing tennis since 4 years old.
 * Cross Country and Soccer - I like sports in general.
 * Video Gaming - I almost wanted to go pro at one point :)
