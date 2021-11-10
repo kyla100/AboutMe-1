@@ -77,7 +77,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 
 ## Skills
     Python, Java, C++, C#, JavaScript, Linux Shell, SQL
-    AI, Machine Learning, Neural Network, TensorFlow, Keras
+    AI, Machine Learning, Neural Network, TensorFlow, Keras, Selenium / WebDriver
     VS Code, MS Visual Studio, MATLAB, PyCharm, OpenCV, Git/GitHub, Unity, Unreal
 
 ## Education
