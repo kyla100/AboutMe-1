@@ -17,7 +17,7 @@ http://RiptideStar.com
 WaterValley is one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market demands the power of computing and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
   * Performed data preparation and analyses
   * Performed backtesting to optimize trading algorithms
-  * Implemented new strategies in python which optimizes the future contracts using past data
+  * Implemented new strategies in python which optimizes the future contracts using history data
   * Recommendation letter available upon request from the CEO http://t.ly/6Od5
 
 ### Technology Instructor, Tech4Kids & CFAP Youth Council, May 2020 to Present
