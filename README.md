@@ -11,7 +11,7 @@ http://RiptideStar.com
 ### Co-Founder & Developer, Valorant Website https://LineupsValorant.com/, July 2021 - Present
   * Designed and developed the innovative video game website for the Valorant community to revolutionize how players search for lineups.
   * The website provides interactive dynamic real-time supports for Valorant players.
-  * It aims to serve 1,000,000+ gamers out of 20 millions in the Valorant community. 
+  * It aims to serve 1,000,000+ gamers out of 15 millions in the Valorant community. 
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is one of many hedge funds in HongKong. Managing billions of dollars over many future contracts and calculating trends within the stock market demands the power of computing and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
@@ -62,7 +62,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Captain of Varsity Tennis Team at Lake Oswego High School
-  * I led the team to be #1 in the regional. 
+  * Led the team to be #1 in the district. 
   * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
 * Volunteer for non-profit organizations - creating / maintaining websites for them:
   * http://hcyfoundation.org/
@@ -101,5 +101,5 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 ## My Hobbies
 * Tennis - I have been playing tennis since 4 years old.
 * Cross Country and Soccer - I like sports in general.
-* Video Gaming - I almost wanted to go pro at one point :)
+* Video Gaming - played in tournaments when I was younger :)
 
