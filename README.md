@@ -14,7 +14,7 @@ http://RiptideStar.com
   * It aims to serve 1,000,000+ gamers out of 15 millions in the Valorant community. 
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
-WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands the power of computing and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
+WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
   * Performed data preparation and analyses
   * Performed backtesting to optimize trading algorithms
   * Implemented new strategies in python which optimizes the future contracts using history data
