@@ -46,8 +46,9 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 	
 ### Software Lead, FTC Robotics Team (Fellowship of the Robot), Sept. 2018 - Mar. 2020
   * Leading Software Programming for the team
+  * Won prestigious FTC Collins Aerospace Innovate Award in the State Championship
   * Top 10 team in Oregon (out of 209 teams)
-  * Qualified for 2019 World Tournament Championship in Houston.
+  * Qualified for 2019 World Tournament Championship in Houston representing Oregon
 
 ### Software Lead, Destination Imagination Team, Sept. 2015 - May 2016
   * Led the design and implementation of a robotic squirrel using Lego hardware 
@@ -91,6 +92,14 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 #### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
 #### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
 #### Multivariable Calculus, John Hopkins University - CTY, 2021
+
+## My Awards
+* President's Volunteer Service Award 2021 - Silver for 200+ volunteer hours during the pandemic
+* FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
+* AP Scholar with Honor and Distinction, 2019, 2020, 2021
+* Tennis Sectionals Champion, 2018, 2019
+* CFAP Youth Council Community Service Award, 2021
+* Lake Oswego High School Honor Roll, 2019, 2020, 2021
 
 ## My Websites
 * https://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
