@@ -39,7 +39,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the image capturing based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
   * Recommendation letter available upon request from Dr. Nan https://ohsu.edu/school-of-medicine/nan-lab
 
-### Lab Assistant, Chemistry Lab at Oregon State University, July - August 2020
+### Lab Assistant, Chemistry Lab at Oregon State University, July 2020
 Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
   * [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
   * Recommendation letter available upon request from Dr. Ji. https://jigroup.chem.oregonstate.edu/
