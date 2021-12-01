@@ -94,7 +94,6 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 #### Multivariable Calculus, John Hopkins University - CTY, 2021
 
 ## My Awards
-* President's Volunteer Service Award 2021 - Silver for 200+ volunteer hours during the pandemic
 * FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
 * 2022 Coca-Cola Scholars Semifinalist (Finalists will be revealed in Spring 2022)
 * AP Scholar with Honor and Distinction, 2019, 2020, 2021
