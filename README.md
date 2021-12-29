@@ -8,10 +8,10 @@ http://RiptideStar.com
 
 ## Experience
 
-### Co-Founder & Developer, Valorant Utility Website https://LineupsValorant.com/, July 2021 - Present
-  * Designed and developed the innovative video game website for the Valorant community to revolutionize how players search for lineups.
+### Co-Founder & Developer, Valorant Web Service https://LineupsValorant.com/, July 2021 - Present
+  * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
   * The website provides interactive dynamic real-time supports for Valorant players.
-  * It aims to serve 1,000,000+ gamers out of 15 millions in the Valorant community. 
+  * It aims to serve 1,000,000+ players in the 20 millions Valorant community.
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
@@ -94,6 +94,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 #### Multivariable Calculus, John Hopkins University - CTY, 2021
 
 ## My Awards
+* President's Volunteer Service Award 2021 (For 175+ Volunteer hours during the pandemic)
 * FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
 * 2022 Coca-Cola Scholars Semifinalist (Finalists will be revealed in Spring 2022)
 * AP Scholar with Honor and Distinction, 2019, 2020, 2021
