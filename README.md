@@ -10,14 +10,14 @@ http://RiptideStar.com
 
 ### Co-Founder & Developer, Valorant Web Service https://LineupsValorant.com/, July 2021 - Present
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
-  * The website provides interactive dynamic real-time supports for Valorant players.
+  * The web service provides interactive dynamic real-time supports for Valorant players.
   * It aims to serve 1,000,000+ players in the 20 millions Valorant community.
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
   * Performed data preparation and analyses
   * Performed backtesting to optimize trading algorithms
-  * Implemented new strategies in python which optimizes the future contracts using history data
+  * Implemented new strategies in python which optimizes the future contracts backtested with history data
   * Recommendation letter available upon request from the CEO http://t.ly/6Od5
 
 ### Technology Instructor, ITeach-ILearn & CFAP Youth Council, May 2020 to Present
@@ -58,7 +58,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
   * As the president of the AI Club, I facilitate discussions and events for fellow students to explore and learn AI technology.
   * Organize and host computer science panel discussions
-  * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists discussing and answering questions from high schoolers.
+  * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists discussing and answering questions for high schoolers.
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Captain of Varsity Tennis Team at Lake Oswego High School
