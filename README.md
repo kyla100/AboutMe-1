@@ -57,9 +57,8 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 ## Leadership and Services
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
   * As the president of the AI Club, I facilitate discussions and events for fellow students to explore and learn AI technology.
-  * Organized and hosted computer science panel discussion on 8/15/2021
-  * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists
-  * Helped answer questions from high schoolers who want to study CS in colleges.
+  * Organize and host computer science panel discussions
+  * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists discussing and answering questions from high schoolers.
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Captain of Varsity Tennis Team at Lake Oswego High School
