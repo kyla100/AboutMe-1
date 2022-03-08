@@ -95,7 +95,9 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 ## My Awards
 * President's Volunteer Service Award 2021 (For 175+ Volunteer hours during the pandemic)
 * FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
-* 2022 Coca-Cola Scholars Semifinalist (Finalists will be revealed in Spring 2022)
+* 2022 Coca-Cola Scholars Semifinalist
+* 2022 Duke University Robertson Leadership Scholars Semifinalist
+* 2022 University of Oregon Stamps Scholars Semifinalist
 * AP Scholar with Honor and Distinction, 2019, 2020, 2021
 * Tennis Sectionals Champion, 2018, 2019
 * CFAP Youth Council Community Service Award, 2021
