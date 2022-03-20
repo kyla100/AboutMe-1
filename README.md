@@ -84,7 +84,7 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 
 #### Lake Oswego High School, Lake Oswego, OR
     Planned Graduation 2022
-    Weighted GPA: 4.42, Unweighted GPA: 4.0 (all A's)
+    Weighted GPA: 4.47, Unweighted GPA: 4.0 (all A's)
 #### Computer Science, Portland Community College, OR, 2019 - present
     CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, CIS275, EC201, EC202, MTH261
     GPA: 3.92
