@@ -98,6 +98,9 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 * 2022 Coca-Cola Scholars Semifinalist
 * 2022 Duke University Robertson Leadership Scholars Semifinalist
 * 2022 University of Oregon Stamps Scholars Semifinalist
+* 2022 University of Oregon Presidential Scholarship and Summit Scholarship
+* 2022 Oregon State University Presidential Scholarship and Finley Academic Excellence Scholarship
+* 2022 University of Washington Purple & Gold Scholarship
 * AP Scholar with Honor and Distinction, 2019, 2020, 2021
 * Tennis Sectionals Champion, 2018, 2019
 * CFAP Youth Council Community Service Award, 2021
