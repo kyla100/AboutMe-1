@@ -1,5 +1,6 @@
 # Kyle Zhang
-Lake Oswego, Oregon | 
+Lake Oswego, Oregon |
+mkz100@uw.edu |
 Kyle.Zhang@pcc.edu | 
 971-206-1296 | 
 https://github.com/RiptideStar | 
