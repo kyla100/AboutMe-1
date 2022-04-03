@@ -1,6 +1,5 @@
 # Kyle Zhang
 Lake Oswego, Oregon |
-mkz100@uw.edu |
 Kyle.Zhang@pcc.edu | 
 971-206-1296 | 
 https://github.com/RiptideStar | 
@@ -39,11 +38,6 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
   * I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the image capturing based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
   * Recommendation letter available upon request from Dr. Nan https://ohsu.edu/school-of-medicine/nan-lab
-
-### Lab Assistant, Chemistry Lab at Oregon State University, July 2020
-Under the supervision of Dr David Ji, I implemented the data processing program using Python (GitHub below):
-  * [Python program processing chemistry research data](https://github.com/RiptideStar/PythonCodeForOSU)
-  * Recommendation letter available upon request from Dr. Ji. https://jigroup.chem.oregonstate.edu/
 	
 ### Software Lead, FTC Robotics Team (Fellowship of the Robot), Sept. 2018 - Mar. 2020
   * Leading Software Programming for the team
@@ -63,17 +57,15 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Captain of Varsity Tennis Team at Lake Oswego High School
-  * Led the team to be #1 in the district. 
+  * Led the team to be the top in the district. 
   * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
-* Volunteer for non-profit organizations - creating / maintaining websites for them:
-  * http://hcyfoundation.org/
-  * https://www.nwchinesealliance.org/
+* Volunteer for non-profit organizations - creating / maintaining websites for them
 * Organize and host camps and classes in summer, winter and spring breaks
   * Host and coach tennis camps every summer since I was 12. Coached 40+ kids tennis to inspire them to be active with sports. Enjoyed the time with them.
   * Designed and taught technology classes online (Python, Web and Gaming Programming, AI & Machine Learning etc). 180+ students have enrolled in my tech classes since summer 2020.
 * Counsel kids with video gaming issues
   * Organized and held panel discussions on Psychology of Gaming & How to Manage/Balance with School Life for parents and children.
-  * Counseled 5+ kids in my community struggling with video gaming issues in last 3 years. 
+  * Counseled kids in my community struggling with video gaming issues in last 3 years. 
 * Volunteer in the annual Portland Rose Parade every year since I was 9.
 
 ## Skills
@@ -94,7 +86,6 @@ Under the supervision of Dr David Ji, I implemented the data processing program 
 #### Multivariable Calculus, John Hopkins University - CTY, 2021
 
 ## My Awards
-* President's Volunteer Service Award 2021 (For 175+ Volunteer hours during the pandemic)
 * FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
 * 2022 Coca-Cola Scholars Semifinalist
 * 2022 Duke University Robertson Leadership Scholars Semifinalist
