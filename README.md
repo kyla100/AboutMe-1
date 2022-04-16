@@ -93,6 +93,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * 2022 University of Oregon Presidential Scholarship and Summit Scholarship
 * 2022 Oregon State University Presidential Scholarship and Finley Academic Excellence Scholarship
 * 2022 University of Washington Purple & Gold Scholarship
+* 2022 University of California, Irvine Distinguished Director's Scholarship
 * AP Scholar with Honor and Distinction, 2019, 2020, 2021
 * Tennis Sectionals Champion, 2018, 2019
 * CFAP Youth Council Community Service Award, 2021
