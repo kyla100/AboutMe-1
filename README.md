@@ -11,7 +11,8 @@ http://RiptideStar.com
 ### Co-Founder & Developer, Valorant Web Service https://LineupsValorant.com/, July 2021 - Present
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
   * The web service provides interactive dynamic real-time supports for Valorant players.
-  * It aims to serve 1,000,000+ players in the 20 millions Valorant community.
+  * It aims to serve tens of thousands players in the millions Valorant community.
+  * [5k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
