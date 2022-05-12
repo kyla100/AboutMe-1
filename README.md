@@ -100,6 +100,9 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Tennis Sectionals Champion, 2018, 2019
 * CFAP Youth Council Community Service Award, 2021
 * Lake Oswego High School Honor Roll, 2019, 2020, 2021
+* 2022 Scholastic Art & Writing Awards, Silver Key for Personal Essay
+* First Tech Scholarship 2022 https://www.firsttechfed.com/discover/scholarships
+* IBM Scholarship 2022
 
 ## My Websites
 * https://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
