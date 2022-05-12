@@ -101,6 +101,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * CFAP Youth Council Community Service Award, 2021
 * Lake Oswego High School Honor Roll, 2019, 2020, 2021
 * 2022 Scholastic Art & Writing Awards, Silver Key for Personal Essay
+* Elks Scholarship 2022
 * First Tech Scholarship 2022 https://www.firsttechfed.com/discover/scholarships
 * IBM Scholarship 2022
 
