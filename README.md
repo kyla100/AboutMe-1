@@ -18,11 +18,11 @@ http://RiptideStar.com
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
   * Processed / aggregated China futures tick data
   * Applied the data into CTA backtest framework
-  * Tuned the parameters and alogrithms to optimize the quality of backtest performance
+  * Tuned the parameters and algorithms to optimize the quality of backtest performance
   * Recommendation letter available upon request from the CEO http://t.ly/6Od5
 
 ### Technology Instructor, ITeach-ILearn & CFAP Youth Council, May 2020 to Present
-Designed three online technology courses with hands-on projects. Taught 180+ students thru winter, spring and summer classes offered by Tech4Kids & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
+Designed three online technology courses with hands-on projects. Taught 180+ students thru online classes offered by ITeach-ILearn & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
   * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
   * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
   * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
