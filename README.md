@@ -1,5 +1,4 @@
 # Kyle Zhang
-Lake Oswego, Oregon |
 kyle100@wharton.upenn.edu | 
 971-206-1296 | 
 https://github.com/RiptideStar | 
@@ -9,7 +8,7 @@ http://RiptideStar.com
 ## Experience
 
 ### Co-Founder & Developer, Valorant Web Service https://LineupsValorant.com/, July 2021 - Present
-  * [5k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
+  * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
   * The web service provides interactive dynamic real-time supports for millions players in the Valorant community.
   * Launched on 4/30/2022, as of 5/15 we currently have 5k+ active users / day. 
@@ -19,7 +18,7 @@ WaterValley is a quant hedge fund in HongKong. Trading future contracts and calc
   * Processed / aggregated China futures tick data
   * Applied the data into CTA backtest framework
   * Tuned the parameters and algorithms to optimize the quality of backtest performance
-  * Recommendation letter available upon request from the CEO http://t.ly/6Od5
+  * Recommendation letter available upon request from the [CEO Tom Tang](http://t.ly/6Od5)
 
 ### Technology Instructor, ITeach-ILearn & CFAP Youth Council, May 2020 to Present
 Designed three online technology courses with hands-on projects. Taught 180+ students thru online classes offered by ITeach-ILearn & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
@@ -76,8 +75,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 
 ## Education
 
-#### Lake Oswego High School, Lake Oswego, OR
-    Planned Graduation 2022
+#### Lake Oswego High School, Lake Oswego, OR. May 2022
     Weighted GPA: 4.47, Unweighted GPA: 4.0 (all A's)
 #### Computer Science, Portland Community College, OR, 2019 - present
     CS140, CS160, CS161, CS162, CS179, CS233, CIS284, CS260, CIS275, EC201, EC202, MTH261
@@ -103,7 +101,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * 2022 Scholastic Art & Writing Awards, Silver Key for Personal Essay
 * Elks Scholarship 2022
 * First Tech Scholarship 2022 https://www.firsttechfed.com/discover/scholarships
-* IBM Scholarship 2022
+* IBM Thomas J. Watson Memorial Scholarship 2022
 
 ## My Websites
 * https://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
@@ -115,4 +113,3 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Tennis - I have been playing tennis since 4 years old.
 * Cross Country and Soccer - I like sports in general.
 * Video Gaming - played in tournaments when I was younger :)
-
