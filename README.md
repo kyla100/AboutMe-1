@@ -3,6 +3,7 @@ kyle100@wharton.upenn.edu |
 971-206-1296 | 
 https://github.com/RiptideStar | 
 http://RiptideStar.com
+https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
 
 
 ## Experience
@@ -108,6 +109,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * http://vaccine19.us/  A covid19 vaccine finder and signup site.
 * https://github.com/RiptideStar/ My GitHub home since 2018. 
 * http://RiptideStar.com
+* https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
 
 ## My Hobbies
 * Tennis - I have been playing tennis since 4 years old.
