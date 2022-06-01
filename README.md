@@ -1,8 +1,7 @@
 # Kyle Zhang
 kyle100@wharton.upenn.edu | 
-971-206-1296 | 
 https://github.com/RiptideStar | 
-http://RiptideStar.com
+http://RiptideStar.com | 
 https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
 
 
