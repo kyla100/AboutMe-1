@@ -11,7 +11,7 @@ https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
   * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
   * The web service provides interactive dynamic real-time supports for millions players in the Valorant community.
-  * Launched on 4/30/2022, as of 5/15 we currently have 5.6k active users / day. 
+  * Launched on 4/30/2022, as of 5/15 we currently have 5k active users / day. 
   * More info (PPT) @ http://t.ly/8gOZ
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
