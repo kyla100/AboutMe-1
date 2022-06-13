@@ -76,6 +76,10 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 
 ## Education
 
+### University of Pennsylvania, Jerome Fisher M&T Program, 2022-2026
+    BS in Economics, The Wharton School
+    BS in Computer Science, PennEngineering
+
 #### Lake Oswego High School, Lake Oswego, OR. May 2022
     Weighted GPA: 4.47, Unweighted GPA: 4.0 (all A's)
 #### Computer Science, Portland Community College, OR, 2019 - present
