@@ -76,7 +76,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 
 ## Education
 
-#### University of Pennsylvania, Jerome Fisher M&T Program, 2022-2026
+#### University of Pennsylvania, Jerome Fisher M&T Dual Degree Program, 2022-2026
     BS in Economics, The Wharton School
     BS in Computer Science, PennEngineering
 
