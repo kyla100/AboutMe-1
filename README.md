@@ -118,4 +118,4 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 ## My Hobbies
 * Tennis - I have been playing tennis since 4 years old.
 * Cross Country and Soccer - I like sports in general.
-* Video Gaming - played in tournaments when I was younger :)
+* (Video) Gaming - played in tournaments when I was younger :)
