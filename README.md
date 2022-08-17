@@ -64,8 +64,8 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * Information and Recording http://t.ly/FRIY
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Captain of Varsity Tennis Team at Lake Oswego High School
-  * Led the team to be the top in the district. 
-  * I would have qualified for State-wide competition, had Covid-19 not canceled most of our competitions.
+  * Qualified for State-Level competition
+  * Led the team to be the top in the district athletically and academically
 * Volunteer for non-profit organizations - creating / maintaining websites for them
 * Organize and host camps and classes in summer, winter and spring breaks
   * Host and coach tennis camps every summer since I was 12. Coached 40+ kids tennis to inspire them to be active with sports. Enjoyed the time with them.
