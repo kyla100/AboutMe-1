@@ -7,6 +7,11 @@ https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
 
 ## Experience
 
+### DECODE 2022 Entrepreneurship, Technology, and Innovation Conference - Program Director, May 2022 - Present
+  * DECODE is a non-profit organization with a mission to democratize knowledge and opportunities around the future of work in tech and entrepreneurship, and bridge academia with industry.
+  * With roots from being the largest tech and innovation conference co-hosted with UC Berkeley and Stanford students and alumni, DECODE aims to provide a platform where students and working professionals can better adapt to the future of work enabled by exponential technologies.
+  * Directing the program team for the 2022 Decode Conference & cooperate the program with the teams of partnerships/sponsorships, community and operations
+  * As a University of Pennsylvania student and one of DECODE's first connections towards the east coast, I provide a bonus role of unifying the east and west coast of startups, companies, and academia.
 ### Co-Founder & Developer, Valorant Web Service https://LineupsValorant.com/, July 2021 - Present
   * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
