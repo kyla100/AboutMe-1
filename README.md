@@ -25,7 +25,7 @@ WaterValley is a quant hedge fund in HongKong. Trading future contracts and calc
   * Processed / aggregated China futures tick data
   * Applied the data into CTA backtest framework
   * Tuned the parameters and algorithms to optimize the quality of backtest performance
-  * Recommendation letter available upon request from the [CEO Tom Tang](http://t.ly/6Od5)
+  * Recommendation letter available upon request from [CEO Tom Tang](http://t.ly/6Od5)
 
 ### Technology Instructor, ITeach-ILearn & CFAP Youth Council, May 2020 to Present
 Designed three online technology courses with hands-on projects. Taught 180+ students thru online classes offered by ITeach-ILearn & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
