@@ -7,7 +7,7 @@ https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
 
 ## Experience
 
-### DECODE 2022 Entrepreneurship, Technology, and Innovation Conference - Program Director, May 2022 - Present
+### DECODE 2022 Technology, and Innovation Conference - Program Director, May 2022 - Present
   * [DECODE](https://www.decode.build/) is a non-profit organization with a mission to democratize knowledge and opportunities around the future of work in tech and entrepreneurship, and bridge academia with industry.
   * With roots from being the largest tech and innovation conference co-hosted with UC Berkeley and Stanford students and alumni, DECODE aims to provide a platform where students and working professionals can better adapt to the future of work enabled by exponential technologies.
   * Directing the program team for the 2022 Decode Conference & cooperate the program with the teams of partnerships/sponsorships, community and operations
