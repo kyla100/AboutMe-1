@@ -1,8 +1,8 @@
 # Kyle Zhang
 kyle100@wharton.upenn.edu | 
-https://github.com/RiptideStar | 
-http://RiptideStar.com | 
-https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
+<https://github.com/RiptideStar> | 
+<http://RiptideStar.com> | 
+<https://www.linkedin.com/in/kyle-zhang-b5ba5a23a>/
 
 
 ## Experience
@@ -13,12 +13,12 @@ https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
   * Directing the program team for the 2022 Decode Conference & cooperate the program with the teams of partnerships/sponsorships, community and operations
   * As a University of Pennsylvania student and one of DECODE's first direct connections towards the east coast, I serve a bonus role of unifying the east and west coast of startups, companies, and academia.
   * Conference will be held on November 5 (@ UC Berkeley) and November 6 (@ Stanford)
-### Co-Founder & Full Stack Developer, Valorant Web Service https://LineupsValorant.com/, July 2021 - Present
+### Co-Founder & Full Stack Developer, Valorant Web Service <https://LineupsValorant.com/>, July 2021 - Present
   * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
   * The web service provides interactive dynamic real-time supports for millions players in the Valorant community.
   * Launched on 4/30/2022, as of 5/15 we currently have 5k active users / day. 
-  * More info (PPT) @ http://t.ly/8gOZ
+  * More info (PPT) @ <http://t.ly/8gOZ>
 
 ### Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
@@ -28,23 +28,23 @@ WaterValley is a quant hedge fund in HongKong. Trading future contracts and calc
   * Recommendation letter available upon request from [CEO Tom Tang](http://t.ly/6Od5)
 
 ### Technology Instructor, ITeach-ILearn & CFAP Youth Council, May 2020 to August 2022
-Designed three online technology courses with hands-on projects. Taught 180+ students thru online classes offered by ITeach-ILearn & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (https://github.com/RiptideStar/2021SummerTechClasses)
+Designed three online technology courses with hands-on projects. Taught 180+ students thru online classes offered by ITeach-ILearn & CFAP Youth Council, two non-profit organizations for fostering leadership and technology interests in the youth. (<https://github.com/RiptideStar/2021SummerTechClasses>)
   * [Python Programming with AI & Machine Learning Projects](https://github.com/RiptideStar/AI_Python)
   * [Game Programming Using Unity & C#](https://github.com/RiptideStar/SpaceRocks-2.0)
   * [Learn Python, Web Crawlers, Website Creation & Data Visualization with Hands-on Projects](https://github.com/RiptideStar/Python)
   * Recommendation letter available upon request from Dr. Lou
 
-### Initiator & Developer, Covid19 Vaccine Finder website http://vaccine19.us/, April 2021
+### Initiator & Developer, Covid19 Vaccine Finder website <http://vaccine19.us/>, April 2021
   * Designed and Developed a Covid19 Vaccine Finder website for helping people find and register for vaccine shots. 
   * The website keeps crawling / checking / reporting covid19 vaccine sign-up sites for availability. 
   * Registered users are notified immediately when available vaccine spots are found.
   * Technology stack: Python + Flask + Shell Scripts + SQLite + html
-  * Source code is open in my Github: https://github.com/RiptideStar/covid19signupStatus
+  * Source code is open in my Github: <https://github.com/RiptideStar/covid19signupStatus>
 
 ### Research Intern, Nan Cancer Research Lab at Oregon Health & Science University (OHSU), June - Sept. 2019
   * In 8 weeks under the supervision of Dr. Nan in his Lab, a leading Cancer Imaging Lab nationwide, I implemented and automated multimodal microscopy with NanoJ-Fluidics using low-cost Lego hardware controlled by ImageJ-based software.
   * I applied the knowledge I learned from FLL & FTC (robotics competitions) to automate the image capturing based on this [research paper published on Nature](https://www.nature.com/articles/s41467-019-09231-9) using the Lego robotics hardware.
-  * Recommendation letter available upon request from Dr. Nan https://ohsu.edu/school-of-medicine/nan-lab
+  * Recommendation letter available upon request from Dr. Nan <https://ohsu.edu/school-of-medicine/nan-lab>
 	
 ### Software Lead, FTC Robotics Team (Fellowship of the Robot), Sept. 2018 - Mar. 2020
   * Leading Software Programming for the team
@@ -61,7 +61,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * As the president of the AI Club, I facilitate discussions and events for fellow students to explore and learn AI technology.
   * Organize and host computer science panel discussions
   * Invited two professors, Dr. Fern from Oregon State U and Dr. Zhao from Washington State U as panelists discussing and answering questions for high schoolers.
-  * Information and Recording http://t.ly/FRIY
+  * Information and Recording <http://t.ly/FRIY>
   * My final remarks - [video clip](http://t.ly/jKUY)
 * Captain of Varsity Tennis Team at Lake Oswego High School
   * Qualified for State-Level competition
@@ -115,11 +115,11 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * IBM Thomas J. Watson Memorial Scholarship 2022
 
 ## My Websites
-* https://LineupsValorant.com/ A website for the valorant community to revolutionize how players search for lineups.
-* http://vaccine19.us/  A covid19 vaccine finder and signup site.
-* https://github.com/RiptideStar/ My GitHub home since 2018. 
-* http://RiptideStar.com
-* https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/
+* <https://LineupsValorant.com/> A website for the valorant community to revolutionize how players search for lineups.
+* <http://vaccine19.us/>  A covid19 vaccine finder and signup site.
+* <https://github.com/RiptideStar/> My GitHub home since 2018. 
+* <http://RiptideStar.com>
+* <https://www.linkedin.com/in/kyle-zhang-b5ba5a23a/>
 
 ## My Hobbies
 * Tennis - I have been playing tennis since 4 years old.
