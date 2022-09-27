@@ -13,6 +13,7 @@ kyle100@wharton.upenn.edu |
   * Directing the program team for the 2022 Decode Conference & cooperate the program with the teams of partnerships/sponsorships, community and operations
   * As a University of Pennsylvania student and one of DECODE's first direct connections towards the east coast, I serve a bonus role of unifying the east and west coast of startups, companies, and academia.
   * Conference will be held on November 5 (@ UC Berkeley) and November 6 (@ Stanford)
+
 ### Co-Founder & Full Stack Developer, Valorant Web Service <https://LineupsValorant.com/>, July 2021 - Present
   * [6k Upvotes Reddit](https://www.reddit.com/r/VALORANT/comments/ug55x6/to_help_find_lineups_i_made_lineupsvalorant_a/?utm_source=share&utm_medium=web2x&context=3)
   * Designed and developed the innovative web service for the Valorant video game community to revolutionize how players search for lineups.
@@ -111,8 +112,9 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Lake Oswego High School Honor Roll, 2019, 2020, 2021
 * 2022 Scholastic Art & Writing Awards, Silver Key for Personal Essay
 * Elks Scholarship 2022
-* First Tech Scholarship 2022 https://www.firsttechfed.com/discover/scholarships
+* First Tech Scholarship 2022 <https://www.firsttechfed.com/discover/scholarships>
 * IBM Thomas J. Watson Memorial Scholarship 2022
+* US President's Volunteer Service Award, 2021
 
 ## My Websites
 * <https://LineupsValorant.com/> A website for the valorant community to revolutionize how players search for lineups.
