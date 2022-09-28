@@ -127,3 +127,5 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Tennis - I have been playing tennis since 4 years old.
 * Cross Country and Soccer - I like sports in general.
 * (Video) Gaming - played in tournaments when I was younger :)
+* Hiking
+* Gym
