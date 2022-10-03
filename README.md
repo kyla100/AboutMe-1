@@ -58,6 +58,8 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * Won the State Championship and represented Oregon in the World Tournament at the University of Tennessee. Ranked 19th worldwide.
 
 ## Leadership and Services
+* Wharton Hedge Fund Club (WHFC) Quant Macro Team, University of Pennsylvania
+* Advisory Board member for Wharton Undergraduate Founders and Funders Association (WUFFA), University of Pennsylvania
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
   * As the president of the AI Club, I facilitate discussions and events for fellow students to explore and learn AI technology.
   * Organize and host computer science panel discussions
