@@ -60,6 +60,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 ## Leadership and Services
 * Wharton Hedge Fund Club (WHFC) Quant Macro Team, University of Pennsylvania
 * Advisory Board member for Wharton Undergraduate Founders and Funders Association (WUFFA), University of Pennsylvania
+* Ambassador for Meet an M&T <https://fisher.wharton.upenn.edu/apply/meet-an-mt/>, University of Pennsylvania
 * Founded the AI (Artificial Intelligence) Student Club at Lake Oswego High School, 2021. 
   * As the president of the AI Club, I facilitate discussions and events for fellow students to explore and learn AI technology.
   * Organize and host computer science panel discussions
