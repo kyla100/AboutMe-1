@@ -97,7 +97,6 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
     GPA: 3.92
 #### Robotics and Quantum Computing by Prof Perkowski at Portland State University, OR 2020
 #### Machine Learning, Online Class by Andrew Ng, Stanford University, 2020
-#### Multivariable Calculus, John Hopkins University - CTY, 2021
 
 ## My Awards
 * FTC Robotics Collins Aerospace Innovate Award in the State Championship 2019
@@ -130,5 +129,4 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Tennis - I have been playing tennis since 4 years old.
 * Cross Country and Soccer - I like sports in general.
 * (Video) Gaming - played in tournaments when I was younger :)
-* Hiking
 * Gym
