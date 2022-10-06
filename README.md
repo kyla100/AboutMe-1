@@ -21,7 +21,7 @@ kyle100@wharton.upenn.edu |
   * Launched on 4/30/2022, as of 5/15 we currently have 5k active users / day. 
   * More info (PPT) @ <http://t.ly/8gOZ>
 
-### Development Intern, WaterValley Capital Management, April - September 2021
+### Quant Strategy Development Intern, WaterValley Capital Management, April - September 2021
 WaterValley is a quant hedge fund in HongKong. Trading future contracts and calculating trends in securities markets demands sophisticated algorithms and AI. As an intern on their small exceptional research team, I learned tremendously and was able to accomplish a lot - 
   * Processed / aggregated China futures tick data
   * Applied the data into CTA backtest framework
