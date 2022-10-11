@@ -80,7 +80,7 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
 * Volunteer in the annual Portland Rose Parade every year since I was 9.
 
 ## Soft Skills
-    Quick learner, Accountable, Focus, Relator, Collaborative
+    Quick learner, Accountable, Focus, Relator, Collaborative, Charismatic
 ## Advanced Technical Skills
     Python, Java, C++, C#, JavaScript, Linux Shell, SQL
     AI, Machine Learning, Neural Network, TensorFlow, Keras, Selenium / WebDriver
