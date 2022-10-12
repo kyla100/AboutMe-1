@@ -79,10 +79,8 @@ Designed three online technology courses with hands-on projects. Taught 180+ stu
   * Counseled kids in my community struggling with video gaming issues in last 3 years. 
 * Volunteer in the annual Portland Rose Parade every year since I was 9.
 
-## Soft Skills
-    Quick learner, Accountable, Focus, Relator, Collaborative, Charismatic
 ## Advanced Technical Skills
-    Python, Java, C++, C#, JavaScript, Linux Shell, SQL
+    Python, Java, C++, C#, JavaScript, Linux Shell, SQL, OCaml
     AI, Machine Learning, Neural Network, TensorFlow, Keras, Selenium / WebDriver
     VS Code, MS Visual Studio, MATLAB, PyCharm, OpenCV, Git/GitHub, Unity, Unreal
 
