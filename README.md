@@ -2,7 +2,7 @@
 kyle100@wharton.upenn.edu | 
 <https://github.com/RiptideStar> | 
 <http://RiptideStar.com> | 
-<https://www.linkedin.com/in/kyle-zhang-b5ba5a23a>/
+<https://www.linkedin.com/in/ZhangKyle>/
 
 
 ## Experience
